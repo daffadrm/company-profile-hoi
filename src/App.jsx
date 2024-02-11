@@ -17,7 +17,7 @@ const App = () => {
 	};
 	return (
 		<>
-			<BrowserRouter>
+			<BrowserRouter basename="/">
 				{/* <Navbar /> */}
 				<Navbar onDropdownClick={handleNavbarDropdown} />
 				<Whatsapp />

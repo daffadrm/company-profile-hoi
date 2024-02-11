@@ -1,5 +1,5 @@
 import React from 'react';
-import web from '../../images/logo.png';
+// import web from '../../images/logo.png';
 // import work1 from '../../images/brands/adobe.svg';
 // import work2 from '../../images/brands/samsung.svg';
 // import work3 from '../../images/brands/ebay.svg';
