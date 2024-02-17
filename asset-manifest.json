@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6a3d5b6.css",
-    "main.js": "/static/js/main.3b6dabc7.js",
+    "main.css": "/static/css/main.52c14667.css",
+    "main.js": "/static/js/main.c5b9d8c2.js",
     "static/media/44.jpg": "/static/media/44.1de38ee8e4829f3c92b4.jpg",
     "static/media/gedung.png": "/static/media/gedung.016ece14d033fa3de33b.png",
     "static/media/wifi.png": "/static/media/wifi.8108ce4d769210e25f8e.png",
-    "static/media/cctv.png": "/static/media/cctv.e77d39feef483cf8bc36.png",
+    "static/media/cctv.png": "/static/media/cctv.afabc8aa6d739bda4d34.png",
     "static/media/23324.jpg": "/static/media/23324.cf189c63e0efc441e65b.jpg",
     "static/media/website.png": "/static/media/website.64f94bcaf6d36ccd860e.png",
     "static/media/Picture6.png": "/static/media/Picture6.9382ee6baa86edfc63ba.png",
@@ -42,7 +42,6 @@
     "static/media/H8C.jpeg": "/static/media/H8C.a52e3901e517f2381378.jpeg",
     "static/media/C1CB.jpeg": "/static/media/C1CB.1c151aa37bffb5d721c9.jpeg",
     "static/media/Foto Penarikan FO.jpg": "/static/media/Foto Penarikan FO.d6b43c8992874c9407bf.jpg",
-    "static/media/logo.png": "/static/media/logo.6fcfd02c0ff69e9b84cd.png",
     "static/media/Picture10.png": "/static/media/Picture10.c1d360a1bb9f4f5107fb.png",
     "static/media/Picture11.png": "/static/media/Picture11.29fd88ca687b7fd8cab9.png",
     "static/media/Picture15.png": "/static/media/Picture15.5688beb9cfa54fa5bfcd.png",
@@ -53,11 +52,11 @@
     "static/media/security.svg": "/static/media/security.668f28689921006f8fa64967e41e6f20.svg",
     "static/media/product.svg": "/static/media/product.0e03c3067f94b05af2679981d3d31152.svg",
     "index.html": "/index.html",
-    "main.f6a3d5b6.css.map": "/static/css/main.f6a3d5b6.css.map",
-    "main.3b6dabc7.js.map": "/static/js/main.3b6dabc7.js.map"
+    "main.52c14667.css.map": "/static/css/main.52c14667.css.map",
+    "main.c5b9d8c2.js.map": "/static/js/main.c5b9d8c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6a3d5b6.css",
-    "static/js/main.3b6dabc7.js"
+    "static/css/main.52c14667.css",
+    "static/js/main.c5b9d8c2.js"
   ]
 }
