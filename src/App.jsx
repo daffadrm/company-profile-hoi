@@ -23,10 +23,10 @@ const App = () => {
 				<Whatsapp />
 				<Switch>
 					<Route exact path="/" component={Home} />
-					<Route exact path="/about" component={About} />
+					<Route exact path="/tentang-kami" component={About} />
 					<Route exact path="/layanan/:type" component={Service} />
 					<Route exact path="/career" component={Career} />
-					<Route exact path="/contact" component={Contact} />
+					<Route exact path="/kontak" component={Contact} />
 					<Redirect to="/" />
 				</Switch>
 				<Footer />
